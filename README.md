@@ -1,4 +1,4 @@
-* **GitOps**: GitOps is the mechanism that a few companies like Google, Lyft, etc., has chosen to manage their workflows with. It is a modern approach to the implementation of mechanisms for sucking CI/CD as git repositories are the only source of truth for your infrastructure and application code This approach makes the deployment process convenient and also makes it possible for the code to move between different environments as a result.
+* **GitOps**: GitOps is the morden way of implementing continues delivery as git repositories are the only source of truth for your infrastructure and application code.
 
 * **ArgoCD**: Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes.
 
