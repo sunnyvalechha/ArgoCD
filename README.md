@@ -14,3 +14,12 @@
 
 Application definitions, configurations, and environments should be declarative and version controlled. Application deployment and lifecycle management should be automated, auditable, and easy to understand.
 
+* Argo Workflow?
+
+* Argo workflow is a container-native workflow engine for kubernetes.
+* Argo workflow can run on any k8s cluster.
+* It is open-source and free
+* It is implemented as K8s Custom resource definition (CRD)
+
+
+
