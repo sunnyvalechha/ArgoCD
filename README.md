@@ -13,5 +13,14 @@ Why Argo CD?
 * Application definitions, configurations, and environments should be declarative and version controlled.
 * Application deployment and lifecycle management should be automated, auditable, and easy to understand.
 
+Core Principal of GitOps:
 
+* Declarative configuration
+* Version Control
+* Automated Syncronization
+* Continues Feedback
+
+ArgoCD architecture:
+
+<img width="1317" height="579" alt="image" src="https://github.com/user-attachments/assets/1d8f43ca-fa9a-429e-b2f4-318fadd7091f" />
 
